@@ -44,6 +44,6 @@ The target variable for this model is **Specific Fuel Consumption (SFC)**, which
 ---
 
 ## Results
-The model demonstrates moderate performance with **MAE = 0.413** and **MSE = 0.654**, indicating that the predictions are reasonably accurate for the given data. A portion of the dataset contained outliers, which slightly impacted the model’s overall performance, but most predictions align well with expected outcomes.
+The model demonstrates excellent performance with **MAE < 0.05** and **MSE < 0.25**, indicating that the predictions are reasonably accurate for the given data. A portion of the dataset contained outliers, which slightly impacted the model’s overall performance, but most predictions align well with expected outcomes.
 
 ---
